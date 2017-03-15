@@ -10,7 +10,6 @@ $(function () {
     }
   });
 });
-
 // jsonファイル読み込み Markerへデータ格納
 // (Markerで使うデータを、jsonのMarkerオブジェクトから集めて配列を作成)
 function jsonRequest(json) {
